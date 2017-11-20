@@ -10,7 +10,7 @@ This app also has Peek and Pop navigation features, but they are untested becaus
 
 The project requires certain Cocoapod libraries, see the Podfile for more information.
 
-<img src="screenshot1.png" alt="Map Screen" width="300"/>
-<img src="screenshot2.png" alt="Downloading View" width="300"/>
-<img src="screenshot3.png" alt="Photo Selection View" width="300"/>
-<img src="screenshot4.png" alt="Photo Screen" width="300"/>
+<img src="screenshot1.jpeg" alt="Map Screen" width="300"/>
+<img src="screenshot2.jpeg" alt="Downloading View" width="300"/>
+<img src="screenshot3.jpeg" alt="Photo Selection View" width="300"/>
+<img src="screenshot4.jpeg" alt="Photo Screen" width="300"/>
